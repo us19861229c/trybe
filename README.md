@@ -10,10 +10,10 @@ Weeeee
 
 4. - [x] Uma lista de habilidades que você possui, com destaque para aquela de que você mais se orgulha;
 
-5. - [ ] Um link interno para a sua foto;
+5. - [x] Um link interno para a sua foto;
 
 6. - [x] Um link externo para algum blog de que você goste, que abra em uma nova aba;
 
-7. - [ ] Partes do seu portfólio destacadas com negrito e/ou itálico;
+7. - [x] Partes do seu portfólio destacadas com negrito e/ou itálico;
 
-8. - [ ] Um índice com links internos para as diferentes seções do seu portfólio.
+8. - [x] Um índice com links internos para as diferentes seções do seu portfólio.
