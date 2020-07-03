@@ -20,10 +20,10 @@ Weeeee
 
 ## Seu Portfólio Web deve ser estilizado usando as informações a seguir:
 
- 9. - [ ] Defina fontes diferentes para o seu nome e para a descrição que você criou;
+ 9. - [x] Defina fontes diferentes para o seu nome e para a descrição que você criou;
 
-10. - [ ] Defina uma cor base de background do seu Portfólio Web;
+10. - [x] Defina uma cor base de background do seu Portfólio Web;
 
-11. - [ ] Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
+11. - [x] Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
 
-12. - [ ] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
+12. - [x] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
