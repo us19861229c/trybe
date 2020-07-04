@@ -30,7 +30,7 @@ Weeeee
 
 ## Seu Portfólio Web deve ter ter um layout usando Box Model com as informações a seguir: b3d3
 
-13. - [ ] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+13. - [x] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
 
 14. - [ ] A descrição deve ficar ao lado da foto;
 
