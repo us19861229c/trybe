@@ -1,7 +1,7 @@
 # Construindo seu primeiro Portfólio Web!
 Weeeee
 
-## Seu Portfólio Web deve ter as seguintes informações:
+## Seu Portfólio Web deve ter as seguintes informações: b3d1
  1. - [x] Seu nome completo;
 
  2. - [x] Uma foto atual sua, acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando;
@@ -18,7 +18,7 @@ Weeeee
 
  8. - [x] Um índice com links internos para as diferentes seções do seu portfólio.
 
-## Seu Portfólio Web deve ser estilizado usando as informações a seguir:
+## Seu Portfólio Web deve ser estilizado usando as informações a seguir: b3d2
 
  9. - [x] Defina fontes diferentes para o seu nome e para a descrição que você criou;
 
@@ -27,3 +27,19 @@ Weeeee
 11. - [x] Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
 
 12. - [x] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
+
+## Seu Portfólio Web deve ter ter um layout usando Box Model com as informações a seguir: b3d3
+
+13. - [ ] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+
+14. - [ ] A descrição deve ficar ao lado da foto;
+
+15. - [ ] Centralize seu nome na página;
+
+16. - [ ] Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+
+17. - [ ] Adicione margin e padding nos elementos com pelo menos 35px de distância;
+
+18. - [ ] Coloque espaçamento entre os elementos para que você se sinta mais confortável com o que você fez;
+
+19. - [ ] Coloque estilo somente nos ítens ímpares da lista das suas habilidades.
