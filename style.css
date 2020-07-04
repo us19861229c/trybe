@@ -34,6 +34,11 @@ div {
     margin: 25px ;
     padding: 10ox;
 }
+.interesses-destaque {
+    font-size: 1em;
+    font-style: italic;
+    
+}
 
 #minha-foto {
     float: left; 
@@ -41,4 +46,9 @@ div {
     margin-right: 100px;
     padding: 5px;
     background-color: #6D597A;
+    border: 5px solid  #6D597A
+}
+
+#ul-habilidades li:nth-child(odd) {
+    font-weight: bold;
 }

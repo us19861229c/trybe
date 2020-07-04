@@ -42,4 +42,4 @@ Weeeee
 
 18. - [x] Coloque espaçamento entre os elementos para que você se sinta mais confortável com o que você fez;
 
-19. - [ ] Coloque estilo somente nos ítens ímpares da lista das suas habilidades.
+19. - [x] Coloque estilo somente nos ítens ímpares da lista das suas habilidades.
