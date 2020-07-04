@@ -36,10 +36,10 @@ Weeeee
 
 15. - [x] Centralize seu nome na página;
 
-16. - [ ] Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+16. - [x] Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
 
-17. - [ ] Adicione margin e padding nos elementos com pelo menos 35px de distância;
+17. - [x] Adicione margin e padding nos elementos com pelo menos 35px de distância;
 
-18. - [ ] Coloque espaçamento entre os elementos para que você se sinta mais confortável com o que você fez;
+18. - [x] Coloque espaçamento entre os elementos para que você se sinta mais confortável com o que você fez;
 
 19. - [ ] Coloque estilo somente nos ítens ímpares da lista das suas habilidades.

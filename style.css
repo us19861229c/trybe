@@ -7,7 +7,8 @@ body {
 }
 h1, h2 {
     background: #6D597A;
-    color: white
+    color: white;
+    padding: 5px;
 }
 h1 {
     text-align: center;
@@ -29,9 +30,15 @@ span {
     font-size: 1.2em;
     font-weight: bold;
 }
+div {
+    margin: 25px ;
+    padding: 10ox;
+}
 
 #minha-foto {
     float: left; 
     border-radius: 50%;
-    margin-right: 100px
+    margin-right: 100px;
+    padding: 5px;
+    background-color: #6D597A;
 }
