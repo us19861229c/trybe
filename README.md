@@ -32,9 +32,9 @@ Weeeee
 
 13. - [x] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
 
-14. - [ ] A descrição deve ficar ao lado da foto;
+14. - [x] A descrição deve ficar ao lado da foto;
 
-15. - [ ] Centralize seu nome na página;
+15. - [x] Centralize seu nome na página;
 
 16. - [ ] Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
 

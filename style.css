@@ -9,6 +9,9 @@ h1, h2 {
     background: #6D597A;
     color: white
 }
+h1 {
+    text-align: center;
+}
 li {
     font-size: 1.05em;
     color:rgb(29, 29, 29);
@@ -25,4 +28,10 @@ p {
 span {
     font-size: 1.2em;
     font-weight: bold;
+}
+
+#minha-foto {
+    float: left; 
+    border-radius: 50%;
+    margin-right: 100px
 }
