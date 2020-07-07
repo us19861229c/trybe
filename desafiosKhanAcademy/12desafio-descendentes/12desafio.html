@@ -7,7 +7,14 @@
             .emperor {
                 font-family: cursive;
             }
-
+            /*Deseja que as células da tabela conentendo a classe emperor (e outras contendo a classe reign) recebam as modificações.
+            Entretanto, para isso, deve-se especificar a descendência a partir da tag tabela.
+            Ou seja .emperor (ou .reign) não será aceito
+            td.emperor (ou td.reign) não será aceito
+            nem qualquer outra variação possível.*/
+            table .emperor {
+                background-color: yellow;
+            }
             .reign {
                 font-family: monospace;
             }
