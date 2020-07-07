@@ -3,4 +3,4 @@ Objetivo é aprender a posicionar imagens, fazendo uso das propriedades position
 ## requisitos
 1. - [x] "use posicionamento absoluto para colocar a criatura em algum lugar em cima do planeta."
 2. - [x] "posicione a saudação em cima do planeta"
-3. - [ ] "use uma propriedade z-index para garantir que a saudação sempre apareça em cima da criatura, e não atrás" 
+3. - [x] "use uma propriedade z-index para garantir que a saudação sempre apareça em cima da criatura, e não atrás" 
