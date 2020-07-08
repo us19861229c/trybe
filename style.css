@@ -1,0 +1,54 @@
+body {
+    background: antiquewhite;
+    font-family: cursive;
+}
+.sobre-mim {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1, h2 {
+    background: #6D597A;
+    color: white;
+    padding: 5px;
+}
+h1 {
+    text-align: center;
+}
+li {
+    font-size: 1.05em;
+    color:rgb(29, 29, 29);
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color:rgb(170, 49, 160)
+}
+p {
+    font-weight: lighter;
+}
+span {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+div {
+    margin: 25px ;
+    padding: 10ox;
+}
+.interesses-destaque {
+    font-size: 1em;
+    font-style: italic;
+    
+}
+
+#minha-foto {
+    float: left; 
+    border-radius: 50%;
+    margin-right: 100px;
+    padding: 5px;
+    background-color: #6D597A;
+    border: 5px solid  #6D597A
+}
+
+#ul-habilidades li:nth-child(odd) {
+    font-weight: bold;
+}

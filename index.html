@@ -4,105 +4,90 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercício Trybe | Portfólio</title>
-    <style>
-        body {
-            background: antiquewhite;
-            font-family: cursive;
-        }
-        .sobre-mim {
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        }
-        h1, h2 {
-            background: #6D597A;
-            color: white
-        }
-        li {
-            font-size: 1.05em;
-            color:rgb(29, 29, 29);
-        }
-        a {
-            text-decoration: none;
-        }
-        a:hover {
-            color:rgb(170, 49, 160)
-        }
-        p {
-            font-weight: lighter;
-        }
-        span {
-            font-size: 1.2em;
-            font-weight: bold;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
     <!--Organizando a estrutura do HTML-->
-    <h1 class="sobre-mim"> Rebeca Cerqueira dos Santos</h1>    <!--Nome completo-->
-    <img id="minha-foto" src="https://avatars1.githubusercontent.com/u/54561040?s=460&u=59625921502cbd15bf2fa7daca903cc8eb5900e3&v=4" alt="Rebeca com cacbelos cacheados e mechas californianas. Seu olhar sustenta a expectativa de começar a festa, mas as pessoas estão atrasadas. Ela está, obviamente doida para lanchar, como sempre, mas é uma anfitriã educada então sustenta um meio sorriso simpático"> <!--Foto atual (atenção para o texto em 'alt')-->
-    <p class="sobre-mim"><span>Brasileira, residente em Salvador - Bahia.</span><br><!--Descrição: breve, destaque para nacionalidade, estado e cidade onde mora-->
-    Apaixonada por ler, aprender idiomas, pedalar à passeio <br>
-    Não gosta de passas na comida. Ama sorvete de menta com chocolate<br>
-    Estudante Trybe extremamente curiosa sobre o mundo web,<br>
-    criação de jogos e como educação & tecnologia podem<br>
-    andar de mãos dadas</p>
-    <hr>
-    <ul>
-        <li><a href="#i-habilidades">Habilidades</a></li>
-        <li><a href="#i-sites">Sites Externos</a></li>
-        <li><a href="#i-interesses">Interesses</a></li>
-        <li><a href="#i-onde">Onde estou</a></li>
-        <li><a href="#i-metas">Metas</a></li>
-        <li><a href="#i-vamos">Vamos conversar</a></li>
-    </ul>
-    <h2 id="i-habilidades"> Habilidades:</h2><!--Lista de habilidades-->
-    <ul>
-        <li><span>Inglês Intermediário</span> </li>
-        <li><span>Espanhol Básico</span></li>
-        <li>Japonês Básico</li>
-        <li>Conhecimentos básicos em HTML5, CSS3 e JavaScript</li>
-        <li>Conhecimentos básicos em Python</li>
-        <li>Conhecimentos básicos em Photoshop</li>
-        <li><span>Conhecimentos báiscos em Animação em flash</span></li>
-    </ul>
-    <h2 id="i-sites">Sites externos:</h2>  <!--Link externo para algum blog ou site de preferência, em uma nova aba-->
-    <ul>
-        <li><a href="https://codepen.io/rcks29c" target="_blank">CodePen</a></li>
-        <li><a href="https://www.skoob.com.br/usuario/1543966" target="_blank">Skoob</a></li>
-    </ul>
-    <h2 id="i-interesses">Outros interesses:</h2> <!--Partes do portfólio em destaque - itálico ou negrito-->
-    <ul>
-        <li>música - <span>paixão especial por saxofone</span></li>
-        <li>cultivo de  horta residencial - <span>em andamento</span></li>
-        <li>escrita de histórias, crônicas e poesias</li>
-        <li>desenho e pintura</li>
-        <li>leitura para crianças - <span>em andamento</span></li>
-    </ul>
-    <h2 id="i-onde">Onde estou por aí:</h2>
-    <ul>
-        <li>Leiturinha: <a href="https://www.instagram.com/livros.se/" target="_blank">livro.se</a></li>
-        <li>Animada básica: <a href="vimeo.com/rcks" target="_blank">rcks</a></li>
-        <li>Rabiscada de leve: <a href="https://www.instagram.com/rebisqueira/" target="_blank">rebsqueira</a></li>
-    </ul>
-    <h2 id="i-metas">Metas:</h2>
-    <ul>
-        <li>diminuir o consumo de carne</li>
-        <li>diminuir o consumo de plástico</li>
-        <li>diminuir o consumo de açúcar</li>
-        <li>diminuir o consumo de trigo</li>
-        <li>pedalar maiores distâncias</li>
-        <li>ler a mesm quantidade de livros do ano passado + 1</li>
-    </ul>
-    <h2 id="i-vamos"> Vamos conversar?</h2>
-    <p>vamos bater um papo sobre web, sobre desenho, música ou livros (ou qualquer outra coisa, inclusive. Aliás se também não quiser conversar, tranquilo, vamos só fazer um lanche mesmo.) </p>
-    <p>voltar para o   <a href="#minha-foto">topo</a> </p><!--Link interno para a foto-->
+    <div > <!--Descrição e foto-->
+        <h1 class="sobre-mim"> Rebeca Cerqueira dos Santos</h1>    <!--Nome completo-->
+        <img id="minha-foto" src="https://avatars1.githubusercontent.com/u/54561040?s=460&u=59625921502cbd15bf2fa7daca903cc8eb5900e3&v=4" alt="Rebeca com cacbelos cacheados e mechas californianas. Seu olhar sustenta a expectativa de começar a festa, mas as pessoas estão atrasadas. Ela está, obviamente doida para lanchar, como sempre, mas é uma anfitriã educada então sustenta um meio sorriso simpático"> <!--Foto atual (atenção para o texto em 'alt')-->
+        <p class="sobre-mim"><span>Brasileira, residente em Salvador - Bahia.</span><br><!--Descrição: breve, destaque para nacionalidade, estado e cidade onde mora-->
+        Apaixonada por ler, aprender idiomas, pedalar à passeio <br>
+        Não gosta de passas na comida. Ama sorvete (principalmente de menta com chocolate.) (Mas ama muito!!)<br>
+        Estudante Trybe extremamente curiosa sobre o mundo web, criação de jogos e como educação & tecnologia podem andar de mãos dadas - incluindo cada vez mais pessoas e mudando vidas!</p>
+        <hr>
+    </div>
     
+    <div> <!--Indice -->
+        <ul>
+            <li><a href="#i-habilidades">Habilidades</a></li>
+            <li><a href="#i-sites">Sites Externos</a></li>
+            <li><a href="#i-interesses">Interesses</a></li>
+            <li><a href="#i-onde">Onde estou</a></li>
+            <li><a href="#i-metas">Metas</a></li>
+            <li><a href="#i-vamos">Vamos conversar</a></li>
+        </ul>
+    </div>
     
-  
+    <div> <!--Lista de habilidades-->
+        <h2 id="i-habilidades"> Habilidades:</h2>
+        <ul id="ul-habilidades">
+            <li>Inglês Intermediário </li>
+            <li>Espanhol Básico</li>
+            <li>Japonês Básico</li>
+            <li>Conhecimentos básicos em HTML5, CSS3 e JavaScript</li>
+            <li>Conhecimentos básicos em Python</li>
+            <li>Conhecimentos básicos em Photoshop</li>
+            <li>Conhecimentos báiscos em Animação em flash</li>
+        </ul>
+    </div>
+    
+    <div> <!--Link externo para algum blog ou site de preferência, em uma nova aba-->
+        <h2 id="i-sites">Sites externos:</h2>  
+        <ul>
+            <li><a href="https://codepen.io/rcks29c" target="_blank">CodePen</a></li>
+            <li><a href="https://www.skoob.com.br/usuario/1543966" target="_blank">Skoob</a></li>
+        </ul>
+    </div>
 
-    <!--Alguns itens complementares-->
+    <div> <!-- Outros interesses-->
+        <h2 id="i-interesses">Outros interesses:</h2> <!--Partes do portfólio em destaque - itálico ou negrito-->
+        <ul>
+            <li>música - <span class="interesses-destaque">paixão especial por saxofone</span></li>
+            <li>cultivo de  horta residencial - <span class="interesses-destaque">em andamento</span></li>
+            <li>escrita de histórias, crônicas e poesias</li>
+            <li>desenho e pintura</li>
+            <li>leitura para crianças - <span class="interesses-destaque">em andamento</span></li>
+            <li>costura - <span class="interesses-destaque">isso dá pano pra manga</span></li>
+        </ul>
+    </div>
     
-   
-    <!--Indice com links internos para as diferentes seções do portifólio-->
+    <div> <!-- Links para me conhecer um pouco mais-->
+        <h2 id="i-onde">Onde estou por aí:</h2>
+        <ul>
+            <li>Leiturinha: <a href="https://www.instagram.com/livros.se/" target="_blank">livro.se</a></li>
+            <li>Animada básica: <a href="vimeo.com/rcks" target="_blank">rcks</a></li>
+            <li>Rabiscada de leve: <a href="https://www.instagram.com/rebisqueira/" target="_blank">rebsqueira</a></li>
+        </ul>
+    </div>
+
+    <div> <!-- Um pouco mais sobre mim-->
+        <h2 id="i-metas">Metas:</h2>
+        <ul>
+            <li>diminuir o consumo de carne</li>
+            <li>diminuir o consumo de plástico</li>
+            <li>diminuir o consumo de açúcar</li>
+            <li>diminuir o consumo de trigo</li>
+            <li>pedalar maiores distâncias</li>
+            <li>ler a mesma quantidade de livros do ano passado + 1</li>
+        </ul>
+    </div>
+    
+    <div> <!-- "contato"-->
+        <h2 id="i-vamos"> Vamos conversar?</h2>
+        <p>vamos bater um papo sobre web, sobre desenho, música ou livros (ou qualquer outra coisa, inclusive. Aliás se também não quiser conversar, tranquilo, vamos só fazer um lanche mesmo.) </p>
+    </div>
+    <p>voltar para o   <a href="#minha-foto">topo</a> </p><!--Link interno para a foto-->
     
 </body>
 </html>
