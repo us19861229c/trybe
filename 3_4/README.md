@@ -21,7 +21,7 @@ Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos
 
 4. - [ ] Divida o artigo em seções, organizando-o da seguinte forma:
 
-    1. - [ ] Uma primeira seção contendo informações gerais a respeito do animal. O subtítulo para essa seção fica a seu critério. É necessário que conste nessa seção seu nome científico, que é Odontodactylus scyllarus, em itálico.
+    1. - [x] Uma primeira seção contendo informações gerais a respeito do animal. O subtítulo para essa seção fica a seu critério. É necessário que conste nessa seção seu nome científico, que é Odontodactylus scyllarus, em itálico.
 
     2. - [ ] Além disso, é preciso que haja informação tabular a respeito de sua classifição científica, em específico: Reino, Filo, Subfilo, Classe, Subclasse e Ordem. Tais informações você consegue obter na Wikipedia.
 
