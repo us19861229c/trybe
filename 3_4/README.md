@@ -23,7 +23,7 @@ Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos
 
     1. - [x] Uma primeira seção contendo informações gerais a respeito do animal. O subtítulo para essa seção fica a seu critério. É necessário que conste nessa seção seu nome científico, que é Odontodactylus scyllarus, em itálico.
 
-    2. - [ ] Além disso, é preciso que haja informação tabular a respeito de sua classifição científica, em específico: Reino, Filo, Subfilo, Classe, Subclasse e Ordem. Tais informações você consegue obter na Wikipedia.
+    2. - [x] Além disso, é preciso que haja informação tabular a respeito de sua classifição científica, em específico: Reino, Filo, Subfilo, Classe, Subclasse e Ordem. Tais informações você consegue obter na Wikipedia.
 
     3. - [x] As outras seções dizem respeito aos fatos interessantes que você escolheu acerca do animal. Para cada fato escolhido você vai criar uma seção.
 
@@ -35,7 +35,7 @@ Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos
 
     7. - [ ] Adicione, por fim, uma seção de referências bibliográficas, contendo uma lista de todos os links que foram usados como base para compilar a página em questão.
 
-5. - [ ] Adicione um conteúdo adjacente ao artigo, disponibilizando um link para [este vídeo](https://www.youtube.com/watch?v=E0Li1k5hGBE), que mostra o animal em ação.
+5. - [x] Adicione um conteúdo adjacente ao artigo, disponibilizando um link para [este vídeo](https://www.youtube.com/watch?v=E0Li1k5hGBE), que mostra o animal em ação.
 
 6. - [ ] Adicione um rodapé na página, mostrando algo do gênero "Conteúdo compilado por , ".
 
