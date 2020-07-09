@@ -7,15 +7,15 @@ Para tal, criaremos uma página que apresenta um dos animais mais impressionante
 
 Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos exercícios:
 
-1. - [ ] Adicione um cabeçalho na página contendo o título Soco a 80km/h: Conheça o Stomatopoda.
+1. - [x] Adicione um cabeçalho na página contendo o título Soco a 80km/h: Conheça o Stomatopoda.
 
-2. - [ ] Adicione um conjunto de links que representam a área de navegação do site.
+2. - [x] Adicione um conjunto de links que representam a área de navegação do site.
 
-    1. - [ ] Crie um link chamado Página Inicial.
+    1. - [x] Crie um link chamado Página Inicial.
 
-    2. - [ ] Crie um link chamado Sobre.
+    2. - [x] Crie um link chamado Sobre.
 
-     2. - [ ] Crie um link chamado Contato.
+     2. - [x] Crie um link chamado Contato.
 
 3. - [ ] Crie um artigo que vai conter os fatos interessantes sobre o Stomatopoda. O artigo terá o subtítulo Fatos sobre o Stomatopoda. Segue um site animal de inspiração para pegar fatos.
 
