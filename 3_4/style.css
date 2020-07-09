@@ -1,3 +1,5 @@
 /* CSS Geral - body, h1, h1, p e tags*/
-
+body {
+    font-family: 'Roboto', sans-serif;
+}
 /* Classes por setor  - header, nav, article, aside, subtitulos do article, rodapé  */

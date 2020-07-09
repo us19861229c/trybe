@@ -1,4 +1,7 @@
-##O objetivo desses exercícios é colocar em prática o que você acabou de aprender sobre HTML semântico.
+# Site sobre o Stomatopoda
+Site com informações sobre o STOMATOPODA
+
+## O objetivo desses exercícios é colocar em prática o que você acabou de aprender sobre HTML semântico.
 
 Para tal, criaremos uma página que apresenta um dos animais mais impressionantes que existem: o Stomatopoda. A estilização da página fica a seu critério. 😉
 
