@@ -34,3 +34,34 @@ nav ul li a:hover {
 }
 
 /* Classes por setor  - header, nav, article, aside, subtitulos do article, rodapé  */
+/*Artigo principal*/
+.principal img {
+    height: 300px;
+    margin: 15px;
+}
+.principal p {
+    margin-bottom: 5px;
+    line-height: 1.25em;
+    letter-spacing: 1.25px;
+    width: 75%;
+    float: left;
+}
+table {
+   margin-left: 5px;
+   text-align: center;
+}
+tbody tr:nth-child(odd) {
+   background-color:#318397;
+   color: white;
+}
+tbody tr td:nth-child(odd) {
+   font-weight: bold;
+}
+.principal aside {
+   float: right;
+   width: 20%;
+}
+ /*Outras informações*/
+h3 {
+   clear: both;
+}
