@@ -39,4 +39,4 @@ Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos
 
 6. - [x] Adicione um rodapé na página, mostrando algo do gênero "Conteúdo compilado por , ".
 
-7. - [ ] para esse exercício, é obrigatório fazer uso de no mínimo elementos com as seguintes tags: header, nav, article, section, h1, h2, h3, aside, footer, table e img.
+7. - [x] para esse exercício, é obrigatório fazer uso de no mínimo elementos com as seguintes tags: header, nav, article, section, h1, h2, h3, aside, footer, table e img.

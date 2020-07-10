@@ -78,3 +78,14 @@ h3 {
     margin: 10px;
     top: 50%;
 }
+/*Referência bibliográfica*/
+section ul li {
+    list-style-type: square;
+}
+/*Rodapé*/
+footer {
+    background: black;
+    padding: 10px;
+    color:#318397;
+    text-align: center;
+}
