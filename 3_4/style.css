@@ -1,5 +1,14 @@
 /* CSS Geral - body, h1, h1, p e tags*/
 body {
     font-family: 'Roboto', sans-serif;
+    background-color:#b8cddb ;
+    margin: 10px;
+    padding: 15px;
 }
+h1, h2, h3 {
+    background-color: #318397;
+    padding: 20px;
+}
+
+
 /* Classes por setor  - header, nav, article, aside, subtitulos do article, rodapé  */
