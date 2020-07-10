@@ -1,0 +1,91 @@
+/* CSS Geral - body, h1, h1, p e tags*/
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:#b8cddb ;
+    margin: 10px;
+    padding: 15px;
+}
+h1, h2, h3 {
+    background-color: #318397;
+    padding: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+/*Navegação*/
+nav ul {
+    display: flex;
+}
+nav ul li {
+    list-style: none;
+    margin: -25px 10px 0px 10px ;
+    background-color: #318397;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    
+}
+nav ul li a {
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: #b8cddb;
+    font-size: 1.02em;
+    font-weight: bold;
+}
+
+/* Classes por setor  - header, nav, article, aside, subtitulos do article, rodapé  */
+/*Artigo principal*/
+.principal img {
+    height: 250px;
+    margin: 15px;
+}
+.principal p {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+    line-height: 1.25em;
+    letter-spacing: 1.25px;
+    width: 65%;
+    float: left;
+}
+table {
+   margin-left: 5px;
+   text-align: center;
+}
+tbody tr:nth-child(odd) {
+   background-color:#318397;
+   color: white;
+}
+tbody tr td:nth-child(odd) {
+   font-weight: bold;
+}
+.principal aside {
+   float: right;
+   width: 20%;
+}
+ /*Outras informações*/
+h3 {
+   clear: both;
+}
+.artigo-info:nth-child(even) img {
+    float: right ;
+    height: 100px;
+    margin: 10px;
+    top: 50%;
+}
+.artigo-info:nth-child(odd) img {
+    float: left ;
+    height: 100px;
+    margin: 10px;
+    top: 50%;
+}
+/*Referência bibliográfica*/
+section ul li {
+    list-style-type: square;
+}
+/*Rodapé*/
+footer {
+    background: black;
+    padding: 10px;
+    color:#318397;
+    text-align: center;
+}
