@@ -36,14 +36,15 @@ nav ul li a:hover {
 /* Classes por setor  - header, nav, article, aside, subtitulos do article, rodapé  */
 /*Artigo principal*/
 .principal img {
-    height: 300px;
+    height: 250px;
     margin: 15px;
 }
 .principal p {
-    margin-bottom: 5px;
+    font-size: 1.2em;
+    margin-bottom: 15px;
     line-height: 1.25em;
     letter-spacing: 1.25px;
-    width: 75%;
+    width: 65%;
     float: left;
 }
 table {
@@ -64,4 +65,16 @@ tbody tr td:nth-child(odd) {
  /*Outras informações*/
 h3 {
    clear: both;
+}
+.artigo-info:nth-child(even) img {
+    float: right ;
+    height: 100px;
+    margin: 10px;
+    top: 50%;
+}
+.artigo-info:nth-child(odd) img {
+    float: left ;
+    height: 100px;
+    margin: 10px;
+    top: 50%;
 }
