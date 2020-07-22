@@ -22,7 +22,7 @@
   
     <script>
       let ondeEuEstouMeuPai = document.getElementById('elementoOndeVoceEsta')
-      ondeEuEstouMeuPai.parentNode.style.color = "red"
+      ondeEuEstouMeuPai.parentNode.style.color = 'red'
       let primeiroFilhoTexto = document.getElementById('primeiroFilhoDoFilho').innerHTML = "<p>Aqui um texto</p>"
       let paiElemento = document.getElementById('pai')
       console.log(paiElemento.firstElementChild)
@@ -30,7 +30,22 @@
       console.log(ondeEuEstouMeuPai.nextSibling)
       console.log(ondeEuEstouMeuPai.nextSibling.nextSibling)
       console.log('ou: ',ondeEuEstouMeuPai.nextElementSibling)
-      console.log(paiElemento.children[2])
+      console.log('a partir do pai: ',paiElemento.children[2])
+
+      let amigoEstouAqui = document.createElement('div')
+      amigoEstouAqui.innerHTML = '<p>Amigo estou aqui</p>'
+      amigoEstouAqui.id = 'amigoEstouAqui'
+      document.getElementById('pai').appendChild(amigoEstouAqui)
+
+      let lookImYourChild = document.createElement('p')
+      lookImYourChild.innerHTML = 'olha, eu sou seu filho.'
+      document.getElementById('elementoOndeVoceEsta').appendChild(lookImYourChild)
+
+      let josephDelaney = document.createElement('div')
+      josephDelaney.id = 'josephDelaney'
+      document.getElementById('primeiroFilhoDoFilho').appendChild(josephDelaney) 
+
+      console.log('a partir do filho do primeiroFilhoDoFilho',josephDelaney.parentNode.parentNode.nextElementSibling)
 
     </script>
 </body>
