@@ -72,7 +72,10 @@
       divFilhoDoDivPasso2.className = 'center-content';
       document.getElementsByClassName('main-content')[0].appendChild(divFilhoDoDivPasso2);
 
-      
+      // 4 - Adicione a tag p como filho do div criado no passo 3 e coloque algum texto;
+      let paragrafoAleatorio = document.createElement('p');
+      paragrafoAleatorio.innerHTML = 'Este é um <strong> parágrafo aleatório </strong> para dizer que estou encontrando bastante dificuldade em enteder JavaScript DOM. MEUDEUS COMO É DIFÍCIL ALGUÉM ME AJUDE! Ok, tudo bem. Sem problema. Vou superar.<br><br><br> É MENTIRA EU NÃO VOU SUPERAR!'
+      document.getElementsByClassName('center-content')[0].appendChild(paragrafoAleatorio)
 
 
 
