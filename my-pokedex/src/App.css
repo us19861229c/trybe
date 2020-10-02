@@ -1,0 +1,31 @@
+
+.principal {
+  text-align: center;
+}
+
+.pokemon-list {
+  display: flex;
+  padding: 3rem;
+  text-align: center;
+}
+
+.pokemon-card {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  padding:.4rem;
+  border-radius: 16px;
+  background-color: #8a0f0f;
+  box-shadow: -1rem 0 3rem #0009;
+  color: rgb(28, 28, 29);
+  transition: .1s;
+  width: 80%;
+}
+
+.pokemon-card:hover {
+  transform: translateY(-1rem) scale(1.15);
+}
+
+.pokemon-card:hover~.pokemon-card {
+  transform: translateX(10%);
+}
