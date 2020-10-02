@@ -7,15 +7,17 @@ class Pokedex extends Component {
     return (
       <div>
         <h1>Catch'em All:</h1>
-        {pokemons.map((pokemon) => {
-          return  <Pokemon 
-          key={pokemon.id}
-          name={pokemon.name}
-          type={pokemon.type}
-          averageWeight={pokemon.averageWeight.value}
-          image={pokemon.image} 
-          />
-        })}
+        <div className="pokemon-list">  
+          {pokemons.map((pokemon) => {
+            return <Pokemon
+              key={pokemon.id}
+              name={pokemon.name}
+              type={pokemon.type}
+              averageWeight={pokemon.averageWeight.value}
+              image={pokemon.image}
+            />
+          })}
+        </div>
       </div>
     );
   }
